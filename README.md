@@ -12,10 +12,8 @@ Product Popularity
 
 Order Channel Performance (In-store vs. Online)
 
-The SQL queries used to inspect and clean the data for this analysis can be found here: [link].
 
-
-Targeted SQL queries regarding various business questions can be found here: [link].
+Targeted SQL queries regarding various business questions can be found here: [link](https://github.com/dikko34/Coffe-Orders-SQL-project/blob/main/Coffee%20Orders%20Dataset(Project%201).sql).
 
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here: [link].
